@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "474930167245",
+    "firebase_url": "https://evrekademo-796bd.firebaseio.com",
+    "project_id": "evrekademo-796bd",
+    "storage_bucket": "evrekademo-796bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474930167245:android:7b58ff7ef061e6d0cf9884",
+        "android_client_info": {
+          "package_name": "com.aabusabra.evrekademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474930167245-c1llol4pebku31nbtn90rhcoatg2go3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aabusabra.evrekademo",
+            "certificate_hash": "8eb2b03190ec289c06ae822ffd455799e54b6083"
+          }
+        },
+        {
+          "client_id": "474930167245-nqrovlbra9cdrgbn64029m9jppqr43ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLjJiohLA9L90os2vejFm3B8KDuXFJJZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474930167245-nqrovlbra9cdrgbn64029m9jppqr43ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

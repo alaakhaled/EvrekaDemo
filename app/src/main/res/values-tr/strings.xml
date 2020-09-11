@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Evreka</string>
+    <string name="title_activity_operation">Operasyon</string>
+
+    <!-- fonts -->
+    <string name="text_regular">regular</string>
+    <string name="text_light">light</string>
+    <string name="text_bold">bold</string>
+    <string name="text_medium">medium</string>
+    <string name="text_medium_italic">medium_italic</string>
+
+    <!-- general labels -->
+    <string name="me">Ben</string>
+    <string name="container">Konteyner</string>
+    <string name="next_collection">Bir sonraki Toplama</string>
+    <string name="fullness_rate">Doluluk Oranı</string>
+
+    <!-- buttons labels -->
+    <string name="navigate">Git</string>
+    <string name="relocate">Yerini Değiştir</string>
+    <string name="save">Kayıt Et</string>
+
+
+    <!-- general msgs -->
+    <string name="save_confirmtaion_msg">Lütfen çöp kutunuzun taşınması için haritadan bir yer seçin. Haritaya dokunarak bir konum seçebilirsiniz.</string>
+    <string name="save_successfully_msg">Çöp kutunuz başarıyla yeniden yerleştirildi!</string>
+
+
+    <string name="no_internet_connection_msg">İnternet bağlantınızı kontrol edin, lütfen!</string>
+
+
+    <string name="login_lbl">Kullanıcı adnızı ve şifrenizi girin lütfen.</string>
+    <string name="login">Giriş Yap</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="password">Şifre</string>
+    <string name="error_login_msg">Bu kullanıcı adı bulunmamaktadır! </string>
+    <string name="error_login_pass_msg">Şifre yanlıştır! </string>
+
+
+</resources>

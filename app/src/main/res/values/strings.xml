@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Evreka</string>
+    <string name="title_activity_operation">Operation</string>
+
+    <!-- fonts -->
+    <string name="text_regular">regular</string>
+    <string name="text_light">light</string>
+    <string name="text_bold">bold</string>
+    <string name="text_medium">medium</string>
+    <string name="text_medium_italic">medium_italic</string>
+
+    <!-- general labels -->
+    <string name="me">Me</string>
+    <string name="container">Container</string>
+    <string name="next_collection">Next Collection</string>
+    <string name="fullness_rate">Fullness Rate</string>
+
+
+    <!-- buttons labels -->
+    <string name="navigate">Navigate</string>
+    <string name="relocate">Relocate</string>
+    <string name="save">Save</string>
+
+
+    <!-- general msgs -->
+    <string name="save_confirmtaion_msg">Please select a location from the map for your bin to be relocated. You can select a location by tapping on the map.</string>
+    <string name="save_successfully_msg">Your bin has been relocated successfully!</string>
+
+    <string name="no_internet_connection_msg">Check your internet connection, please!</string>
+
+
+    <string name="login_lbl">Please enter your user name and password.</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="error_login_msg">There is no such username! </string>
+    <string name="error_login_pass_msg">Password is not correct! </string>
+
+
+
+</resources>

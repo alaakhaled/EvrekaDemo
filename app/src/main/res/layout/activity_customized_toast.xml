@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    android:layout_width="336dp"
+    android:layout_height="wrap_content"
+    android:id="@+id/custom_toast_container"
+    android:orientation="horizontal"
+    android:background="@drawable/white_rectangle"
+    android:paddingTop="25dp"
+    android:paddingRight="24dp"
+    android:paddingBottom="25dp"
+    android:paddingLeft="16dp"
+    android:layout_gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="8dp"
+        android:src="@drawable/ic_alert"
+        android:layout_gravity="center_vertical"
+        android:backgroundTint="@color/error_color"
+        android:contentDescription="@string/app_name" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="12dp"
+        android:textSize="@dimen/font_med"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+        android:textColor="@color/dark_grey" />
+</androidx.appcompat.widget.LinearLayoutCompat>
