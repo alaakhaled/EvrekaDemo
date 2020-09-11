@@ -18,7 +18,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.aabusabra.evrekademo.R;
-import com.aabusabra.evrekademo.helper.FirebaseCRUDHelper;
 import com.aabusabra.evrekademo.model.Container;
 import com.aabusabra.evrekademo.utils.Utils;
 import com.google.android.gms.location.FusedLocationProviderClient;
@@ -29,7 +28,6 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.BitmapDescriptor;
-import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.LatLngBounds;
 import com.google.android.gms.maps.model.Marker;
